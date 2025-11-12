@@ -35,7 +35,7 @@ This repository is meant as a **technical demonstration** — showcasing structu
 
 ---
 ```
-## 📁 Project Structure
+📁 Project Structure
 
 ├── .gitignore
 ├── LICENSE
@@ -78,11 +78,10 @@ This version focuses on **project design and modular architecture**, not on depl
 
 Below are example results (public demo only):
 
-| Frame Example | Output Video |
-|---------------|---------------|
-| ![Detected Frame](assets/detected_frame.jpg) | [Output Demo Video](assets/output_video.mp4) |
+| Frame Example | Frame Example | Output Video |
+|---------------|---------------|---------------|
+| ![Detected Frame](assets/frame_1741149119.jpg) | ![Detected Frame](assets/frame_1747670642.jpg) | [Output Demo Video](assets/output video of violence and non violence.mp4) |
 
-*(Place your saved image and output video in an `assets/` folder.)*
 
 ---
 
