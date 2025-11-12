@@ -1,0 +1,12 @@
+from flask import Flask, send_from_directory
+import os
+
+app = Flask(__name__)
+
+# Serve saved frames/videos from "static" folder
+@app.route('/static/<path:filename>')
+def serve_file(filename):
+    return send_from_directory('static', filename)
+
+if __name__ == '__main__':
+    app.run(host="0.0.0.0", port=5000, debug=True)  
