@@ -78,10 +78,9 @@ This version focuses on **project design and modular architecture**, not on depl
 
 Below are example results (public demo only):
 
-| Frame Example 1 | Frame Example 2 | Output Video |
-|-----------------|-----------------|-------------------|
-| ![Detected Frame](assets/frame_1741149119.jpg) | ![Detected Frame](assets/frame_1747670642.jpg) | ![Output Demo GIF](assets/output_demo.gif)
-|
+| Frame Example 1                          | Frame Example 2                          | Output Video       |
+|----------------------------------------|----------------------------------------|--------------------|
+| ![Detected Frame 1](assets/frame_1741149119.jpg) | ![Detected Frame 2](assets/frame_1747670642.jpg) | ![Output Demo GIF](assets/output_demo.gif) |
 
 
 ---
