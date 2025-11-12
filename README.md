@@ -80,7 +80,7 @@ Below are example results (public demo only):
 
 | Frame Example | Frame Example | Output Video |
 |---------------|---------------|---------------|
-| ![Detected Frame](assets/frame_1741149119.jpg) | ![Detected Frame](assets/frame_1747670642.jpg) | [Output Demo Video](assets/output video of violence and non violence.mp4) |
+| ![Detected Frame](assets/frame_1741149119.jpg) | ![Detected Frame](assets/frame_1747670642.jpg) | ![Output Demo Video](assets/output video of violence and non violence.mp4) |
 
 
 ---
@@ -107,7 +107,7 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 ## 📧 Contact
 For queries or collaboration:
 > - [23g.sanath@gmail.com](mailto:23g.sanath@gmail.com)
-> - [g.23sanketh@gmail.com](mailto:g.23sanketh@gmail.com)
+> - [g.sanketh23@gmail.com](mailto:g.23sanketh@gmail.com)
 > - [sowdi1105@gmail.com](mailto:sowdi1105@gmail.com) 
   
 
