@@ -80,7 +80,8 @@ Below are example results (public demo only):
 
 | Frame Example 1 | Frame Example 2 | Output Video |
 |-----------------|-----------------|-------------------|
-| ![Detected Frame](assets/frame_1741149119.jpg) | ![Detected Frame](assets/frame_1747670642.jpg) | ![Output Demo Video](assets/output_demo.gif) |
+| ![Detected Frame](assets/frame_1741149119.jpg) | ![Detected Frame](assets/frame_1747670642.jpg) | ![Output Demo GIF](assets/output_demo.gif)
+|
 
 
 ---
